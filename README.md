@@ -25,7 +25,7 @@ Analysis of 6 variables across a structured student dataset:
 | Social Media vs Score | Negative | < 0.05 | ✅ Yes |
 
 ![Correlation Output](Study-hours-vs-Current-Score.ss.pngg)
-
+![Correlation Output](Student-performance.ss.png)
 
 **Attendance turned out to be a stronger predictor
 than raw study hours — that finding surprised me.**
